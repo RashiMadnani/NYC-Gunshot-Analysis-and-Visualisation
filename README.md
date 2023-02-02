@@ -25,7 +25,6 @@ The data set for analysis is available publically on the NYC OpenData website. E
 Data Source (dataset and geojson): https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8
 
 
-
 Individual Column Descriptions:
 
 INCIDENT_KEY: randomly generated Id by the NYPD for each incident. (a shooting incident can have multiple victims involved. Each incident key represents one victim, hence similar incident keys are counted as one incident)
